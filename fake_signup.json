@@ -1,0 +1,10 @@
+{
+    "type": "signup",
+    "data": {
+        "email": "a@b.c",
+        "name": "alice",
+        "birthday": "2000/01/01",
+        "number": "0900000000",
+        "password": "12345678"
+    }
+}
