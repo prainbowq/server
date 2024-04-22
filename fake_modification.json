@@ -1,6 +1,7 @@
 {
-    "type": "signup",
+    "type": "modification",
     "data": {
+        "token": "0",
         "image": "",
         "email": "a@b.c",
         "name": "abc",

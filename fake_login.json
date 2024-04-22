@@ -2,6 +2,6 @@
     "type": "login",
     "data": {
         "email": "a@b.c",
-        "password": "12345678"
+        "password": "abcd1234"
     }
 }

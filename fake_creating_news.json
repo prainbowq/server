@@ -1,0 +1,9 @@
+{
+    "type": "creating_news",
+    "data": {
+        "date": "2024-04-30",
+        "title": "假標題",
+        "content": "假內文",
+        "image": null
+    }
+}
